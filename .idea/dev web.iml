@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/TP symfony/SfFactoCombiMastermind/src" isTestSource="false" packagePrefix="App" />
+      <sourceFolder url="file://$MODULE_DIR$/TP symfony/SfFactoCombiMastermind/var/cache/dev" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP symfony/SfGestionTournoi/src" isTestSource="false" packagePrefix="App" />
+      <sourceFolder url="file://$MODULE_DIR$/TP symfony/SfGestionTournoi/var/cache/dev" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP symfony/SfGestionTournoi2/src" isTestSource="false" packagePrefix="App" />
+      <sourceFolder url="file://$MODULE_DIR$/TP symfony/SfGestionTournoi2/var/cache/dev" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
